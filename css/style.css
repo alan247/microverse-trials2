@@ -1,0 +1,9 @@
+#img-div {
+  background-color: #f7f7f7;
+  padding: 20px 20px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+}
